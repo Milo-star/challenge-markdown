@@ -30,3 +30,5 @@ hors que mon ami fait pire que moi. Et au fini en bagarre et 2h après on est re
 Bref, je me suis battu avec mon meilleur pote pour une fille.
 
 << previous || Milo || next >>
+
+[Précedent](https://github.com/MathildeCornelis) || Milo || [Suivant](https://github.com/NadimElnakadi)

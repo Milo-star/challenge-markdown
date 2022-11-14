@@ -6,9 +6,9 @@
 
 ## Une personne motivée quand elle le veut !
 
-Anniversaire | Genre | Couleur pref | Nourriture pref | Ananas sur pizza ?
----------------------------------------------------------------------------
-13/08/2003 | M | Rouge | Pizza | [NON] 
+ Anniversaire | Genre | Couleur pref | Nourriture pref | Ananas sur pizza ?
+-------------|--------|-------------|------------------|--------------------
+13/08/2003 | M | Rouge | Pizza | [NON]
 
 ### Mes loisirs
 * Motocross

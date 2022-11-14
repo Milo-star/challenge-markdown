@@ -2,7 +2,7 @@
 
 *Accepter l’idée de la défaite, c’est être déjà vaincu.*
 
-[![Ma magnifique tete](https://scontent.fbru4-1.fna.fbcdn.net/v/t39.30808-6/280569409_10222788327962291_5682385011663408908_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=zRtSOJnnuGoAX96wNsM&_nc_ht=scontent.fbru4-1.fna&oh=00_AfDCvWKtA4rnOC8DrB1WGRy0rBXLX48iRApXsWAORTDHLw&oe=63766376)
+![Ma magnifique tete](https://scontent.fbru4-1.fna.fbcdn.net/v/t39.30808-6/280569409_10222788327962291_5682385011663408908_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=zRtSOJnnuGoAX96wNsM&_nc_ht=scontent.fbru4-1.fna&oh=00_AfDCvWKtA4rnOC8DrB1WGRy0rBXLX48iRApXsWAORTDHLw&oe=63766376)
 
 ## Une personne motivée quand elle le veut !
 
